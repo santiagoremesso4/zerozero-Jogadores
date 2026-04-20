@@ -1,0 +1,3 @@
+Scrapy==2.14.2
+parsel==1.10.0
+requests==2.32.5
